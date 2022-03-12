@@ -9,7 +9,7 @@ const sliderMain = new Swiper('.slider_main', {
             spaceBetween: 20
         },
         680: {
-            slidesPerView: 3.5,
+            slidesPerView: 4,
             spaceBetween: 60
         }
     }
