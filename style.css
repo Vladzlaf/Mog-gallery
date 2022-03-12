@@ -52,6 +52,18 @@ body, html  {
 
 }
 
+@media screen and (max-width: 427px){
+    .slider__item:first-child{
+        margin-left: 30%;
+    }
+}
+
+@media screen and (max-width: 427px){
+    .slider__item{
+    max-height: 75vh;
+}
+}
+
 .slider__img {
     width:  200%;
     height: 100%;
